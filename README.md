@@ -21,20 +21,33 @@ Once you have completed all the tasks, tick the checkboxes.
 
 ## Create checkboxes with the following tasks:
 
-## [] External Link
+* [x] External Link
 
-## [] Internal Link
+* [x] [Internal Link](#Internal-Link)
 
-## [] Images
+* [x] Images
 
-## [] Emojis
+* [x] [Emojis](#Emojis)
 
-## [] Tables
+* [x] Tables
 
+## External Link
 [GitHub documentation](https://help.github.com/en)
 
-
+## Internal Link
 [Internal Link to img](/images)
 
+## Images
 ![Logo](/images/logo.png)
+
+## Emojis
+
+ 🦊  🐝 🦋 🐇 🐼
+
+
+## Tables
+ Name | Class
+ -----|------
+ Marcell | FbW28
+ Edgar | FbW28
 
